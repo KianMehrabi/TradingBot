@@ -10,21 +10,21 @@ trading bot , net positive with AI integration
 3) long-term market outlook based on  news, articles, historical incident..
 
 4) Market-regime AI
-- Instead of predicting price, the AI predicts what kind of market we're currently in.
+    - Instead of predicting price, the AI predicts what kind of market we're currently in.
 
 5) Event-impact AI
-- What type of event happened, and what has historically happened after similar events?
+    - What type of event happened, and what has historically happened after similar events?
 
 6) Market-memory AI
-- maby market is bad but there is historically been recorded like many times that happend to BTC
+    - maby market is bad but there is historically been recorded like many times that happend to BTC
 
 7) Cross-market relationship AI
 
 8) Order-book AI
 
 9) uncertainty strategy
-- if uncertain dont buy
+    - if uncertain dont buy
 
 10) AI agents 
-- instead of one big AI creating several AI(e.g: news ai , ...)
+    - instead of one big AI creating several AI(e.g: news ai , ...)
 
